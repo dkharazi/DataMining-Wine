@@ -1,7 +1,7 @@
 ## Overview
 
 ## Variable Descriptions
-- 'ID:' An ID number for each observed wine.
+- `ID:` An ID number for each observed wine.
 - **fx_acidity**: 
 - **vol_acidity**:
 - **citric_acid**:
