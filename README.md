@@ -1,6 +1,6 @@
 ## Overview
 
-These data are the results of a chemical analysis of wines grown in the same region in Italy, but derived from three different cultivars.
+The original data was donated to the University of California of Irvine by the Institute of Pharmaceutical and Food Analysis and Technologies on January 7, 1991. These data are the results of a chemical analysis of wines grown in the same region in Italy, but derived from three different cultivars. 
 
 ## Variable Descriptions
 - `ID:` An ID number for the observed wine.
@@ -17,5 +17,3 @@ These data are the results of a chemical analysis of wines grown in the same reg
 - `alcohol:` The amount of alcohol in the wine.
 - `quality:` The quality of the wine.
 - `class:` The class that the wine is considered.
-
-## 
