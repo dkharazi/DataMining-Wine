@@ -5,13 +5,10 @@ date: "10/22/2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Import Statements
 ```{r import, message=FALSE, warning=FALSE}
 ## Import Packages
+library(knitr)
 library(readr)
 library(car)
 library(leaps)
