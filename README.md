@@ -5,7 +5,7 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 Datasets: [Red Wine Data](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) [82 KB] and [White Wine Data](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv) [258 KB]
 
 ## Variable Descriptions
-- `ID:` An ID number for the observed wine.
+- `**ID:**` An ID number for the observed wine.
 - `fx_acidity:` The fixed acidity, which is a measurement of the fixed acids in the wine. Most of the acids involved with wine are fixed acids.
 - `vol_acidity:` The volatile acidity, which is a measurement of the volatile acids in the wine. At higher levels, volatile acids can lead to an unpleasant, vinegar taste.
 - `citric_acid:` The amount of citric acid in the wine. Citric acids are usually found in small quantities, and they are known to add a sweet, citrous flavor to wine.
